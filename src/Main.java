@@ -6,7 +6,7 @@ public class Main {
         String [] ipSplitters = ip.split("\\.");
         for (String i:ipSplitters){
             System.out.println(i);
-            System.out.println("Mostafa ahmed");
+            System.out.println("second try Mostafa ahmed");
             
         }
 
